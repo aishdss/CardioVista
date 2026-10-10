@@ -1,0 +1,8 @@
+{
+  "name": "CardioVista - Cardiovascular Risk & Multi-Vessel Stenosis Intelligence",
+  "description": "Interactive 3D cardiovascular risk visualization. Logistic-regression models for CAD and LAD/LCX/RCA stenosis are trained in the browser on the real Z-Alizadeh Sani dataset, validated with nested 5-fold cross-validation, and explained with exact SHAP values.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
